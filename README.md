@@ -56,13 +56,15 @@ cd TrashTrack
 4. Use **Map page** to see all reports.  
 5. Use **Rankings page** to see which district has the most garbage reports.  
 
-💡 (Add screenshots here once you have the UI working — judges love visuals!)  
+💡 <img src="1.png" alt="Logo" width="200">
+    <img src="2.png" alt="Logo" width="200">
+    <img src="3.png" alt="Logo" width="200">
 
 ---
 
 ## 7. Demo Link (compulsory)  
-- 🌐 Live Website: [https://YOUR_USERNAME.github.io/TrashTrack/](https://YOUR_USERNAME.github.io/TrashTrack/)  
-- 🎥 Demo Video: [YouTube / Google Drive link here]  
+- 🌐 Live Website: [https://shyma22.github.io/TrashTrack/](https://shyma22.github.io/TrashTrack/)  
+- 🎥 Demo Video: [https://drive.google.com/file/d/1q6-tdcAnHedX6J82bthoWKpMxlX20cWn/view?usp=sharing]  
 
 ---
 
